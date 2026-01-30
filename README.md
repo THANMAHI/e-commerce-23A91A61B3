@@ -36,7 +36,7 @@ Start the application and database:
 docker-compose up --build
 ```
 This command will:
-- Start PostgreSQL on port 5432.
+- Start PostgreSQL on port 5433.
 - Build and start the Next.js app on `http://localhost:3000`.
 - Automatically seed the database.
 - **Verification**: Confirmed successful build and startup.
